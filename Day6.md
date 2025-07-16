@@ -57,3 +57,14 @@ I tried to make it short and to the point and I think it worked.
 ## Challenge 5
 
 The hurdle 4 for this challenge in the reeborg's world is now to change the jump function based on the height of the obstacle.
+
+This challenge took a couple of iterations. The first while loop to check if there was a wall on the right to keep on moving 
+to pass the total height of the obstacle was easy, the second while loop didn't even cross my mind. Having to go back to the bottom
+of the map was more straight forward when I noticed the robot doing wild things.
+
+![Challenge 5](Images/Day6.5.png)
+
+---
+
+## Challenge 6
+
