@@ -68,3 +68,22 @@ of the map was more straight forward when I noticed the robot doing wild things.
 
 ## Challenge 6
 
+The last challenge for day 6 is the autonomous completion of a maze using all the tools I have lear from today. 
+This challenge was the most complicated thing I have made so far. It took a lot of time and trial and error to be able 
+to get the answer. The world information was really handy to keep in mind thought this, and even if I got confused with it 
+at the end was able to make it right.
+
+To be honest when it really was completed I could not believe it and keep on trying to debug any error it may have but
+the 3 times I ran it, it worked just fine.
+
+![Challenge 6 - Try 1](Images/Day6.6.png)
+
+![Challenge 6 - Try 2](Images/Day6.6_2.png)
+
+![Challenge 6 - Try 3](Images/Day6.6_3.png)
+
+I just watch the resolution from Angela and the thing was so obvious and straight forward I have no idea why I didn't see it like
+that. I kept on checking all the scenarios in my head and all the complications it could carry, maybe I just overthink it.
+
+The rest of the video for this day was meant for someone with intermediate knowledge of python, so I will carry on and afer
+day 15 will come back and debug it.
