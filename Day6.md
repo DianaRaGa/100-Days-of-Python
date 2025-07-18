@@ -85,5 +85,29 @@ the 3 times I ran it, it worked just fine.
 I just watch the resolution from Angela and the thing was so obvious and straight forward I have no idea why I didn't see it like
 that. I kept on checking all the scenarios in my head and all the complications it could carry, maybe I just overthink it.
 
-The rest of the video for this day was meant for someone with intermediate knowledge of python, so I will carry on and afer
+The rest of the video for this day was meant for someone with intermediate knowledge of python, so I will carry on and after
 day 15 will come back and debug it.
+
+## Challenge 6 - Right code
+
+After considering the code I made and the simple and straight forward response of Angela, I figured that the clean version should
+be here as well to remind myself about it and aspire to make code like that in the future.
+
+The code I made compared to the one made by Angela has a lot more of the if, elif's and else statement needed, I have to 
+be aware of that for next time to make it this concise:
+
+```python
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+     
+while not at_goal():
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()
+```
