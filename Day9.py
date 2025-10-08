@@ -1,4 +1,4 @@
-import art
+from Modules.Day9_Blind_auction import logo
 
 # Initiating variables
 biding_auction = {}
@@ -6,7 +6,7 @@ other_biters = True
 
 #While loop to create as many entries in the dictionary as posible
 while other_biters:
-    print(art.logo)
+    print(logo)
     print("\nWelcome to the Blind Biding Auction.")
     name = input("Please enter your name: ")
     try:#Have to see how to make this part a while loop also to only get numbers and then keep going, maybe with an if function?
